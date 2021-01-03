@@ -1,4 +1,4 @@
-# Introductory HTML and JavaScript
+# Introduction  HTML and JavaScript
 #### note 
 # Structure
 --------------------

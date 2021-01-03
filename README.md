@@ -4,4 +4,4 @@
 ---------------------
  reading topics | URLs |
 |---|---|
-| Introductory HTML and JavaScript | [click](https://mariammohamme.github.io/reading-notes/class-01) |
+| introductory HTML and JavaScript | [click](https://mariammohamme.github.io/reading-notes/class-01) |
